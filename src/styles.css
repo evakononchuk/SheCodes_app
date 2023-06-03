@@ -1,6 +1,6 @@
 .container {
   margin-top: 20px;
-  max-width: 652px;
+  max-width: 550px;
 }
 
 .temperature {
@@ -36,4 +36,8 @@
 
 .form-control {
   min-width: 200px;
+}
+
+.search {
+  flex: 1 1 200px;
 }
