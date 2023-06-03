@@ -1,6 +1,6 @@
 .container {
   margin-top: 20px;
-  max-width: 500px;
+  max-width: 550px;
 }
 
 .temperature {
@@ -40,4 +40,17 @@
 
 .search {
   flex: 1 1 200px;
+}
+
+p {
+  font-size: 12px;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
